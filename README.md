@@ -10,7 +10,7 @@ We are thinking while working for the clients, we can also spend some time in up
 We don't want to teach or train millions of people in one shot. Instead we want to teach people who can teach other for free. We believe that helping people for free can help more people to get employment, promotions, self fulfillment and satisfaction in life. There may be many dimensions to this one action, but we just want to do with what we have.
 
 ## What?
-Coffee To Business Learn Program is a simple online community bases solution to learn and teach online technical skills. We are organising Learn Program in every three months, where we bring people who want to learn the skills and who want to upgrade there skills. Our engineers and developers teach and train the people how they can utilise the free online resources to get the useful information and create some real world solution using those free resources.
+Coffee To Business Learn Program is a simple online community bases solution to learn and teach online technical skills. We are organising Learn Program in every three months, where we bring people who want to learn the skills and who want to upgrade there skills. Our engineers and developers will teach and train the people, and help them to utilise the free online resources and build some real world solutions using those free resources.
 
 ## What you can learn?
 - Web Development
@@ -31,10 +31,10 @@ To apply email us at info@coffeetobusiness.com.
 
 ## How can you participate in this program?
 If you were a part of this program, you can also email us (*info@coffeetobusiness.com*) that you want to teach more people.
-If you are new to this programme you can also email us with your contact details and skills. We will connect to you as soon as possible.
+If you are new to this program please go to https://forms.gle/UdsrZPoM8LARbCa88 and fill the form. We will connect to you as soon as possible.
 
 
-Thank
+Thanks
 Team @ Coffee To Business.
 
 
