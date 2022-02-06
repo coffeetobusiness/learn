@@ -40,7 +40,7 @@ If you are new to this program and interested to teach otheres, please go to htt
 * Batch 3 - From 20 Sept - 20 December (Web Development)
 
 ## Our Programs for upcoming Years
-* Batch 1 -  From 10 Jan - 10March (Web Development)
+* Batch 1 -  From 14 February 2022 - 14 May 2022 (Web Development)
 * Batch 2 - *coming soon* (Web Development)
 * Batch 3 - *coming soon*(Mobile Development)
 * Batch 4 -  *coming soon* (Web Development)
